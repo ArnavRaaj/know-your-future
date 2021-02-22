@@ -16,7 +16,7 @@ function clickHandler() {
     else {
         output.innerHTML = "Your Personal year number is : " + digitSum;
     }
-}
+}l̥ō
 
 function sumOfDigits(num) {
     var sum = 0;
